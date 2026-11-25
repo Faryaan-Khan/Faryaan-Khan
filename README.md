@@ -1,4 +1,4 @@
-### Hi, I'm Faryaan 👋
+### Hi, I'm Faryaan
 
 I build software by directing AI coding agents. I decide what to build and how it should work,
 break it into steps, then review, test and ship what comes back. Final-year Computer Science
