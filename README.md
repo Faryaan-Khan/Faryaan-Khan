@@ -30,7 +30,7 @@ AI engineering, product, solutions and data.
 
 ### How I work
 
-Most of my code is written with Claude Code. My part is the product thinking, the plan, the
+Most of my code is written with Claude Code but not all projects. My part is the product thinking, the plan, the
 review and the testing, and I can explain every decision in the projects above.
 
 ### Connect
