@@ -7,6 +7,13 @@ AI engineering, product, solutions and data.
 
 ### Projects
 
+- **[OfferLens MY](https://github.com/Faryaan-Khan/offerlens-my)**: know what a Malaysian job offer
+  is really worth. Real take-home pay after EPF, SOCSO, EIS and income tax, offers ranked after
+  CPI-adjusted city living costs, the exact salary to ask for, and an application tracker.
+  Installable, works offline, and living costs refresh daily from DOSM data.
+  [Live app](https://faryaan-khan.github.io/offerlens-my/).
+  *TypeScript, Vite, Bootstrap 5, ApexCharts, Vitest, Playwright, GitHub Actions*
+
 - **[Anime Auction Draft](https://github.com/Faryaan-Khan/anime-encheres)**: a two-player bluffing
   auction game in the browser. Play on one phone, against a computer opponent that plays out the
   rest of the game before each bid, or online in real-time rooms where the hidden card never
